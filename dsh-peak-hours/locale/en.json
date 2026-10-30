@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Peak Hours",
+    "description": "Shows the active peak window (01:00–04:00 and 06:00–10:00 UTC) in Moscow time at the top of every chat."
+  }
+}
